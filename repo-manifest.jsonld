@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kennethreitz/envoy/commit/ab463a14da47bd8334cdf5e64f6b9dd2ba9dd28a",
       "git:hexsha": "ab463a14da47bd8334cdf5e64f6b9dd2ba9dd28a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kennethreitz/envoy/commit/4df690b3775345e338865d47a34c308b24be360a",
