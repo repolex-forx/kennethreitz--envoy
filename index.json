@@ -3,6 +3,11 @@
   "repo": "envoy",
   "versions": [
     {
+      "commit": "2390978f5b4131cb27dc69ac47f2da61faec08d3",
+      "tag": "v0.0.2",
+      "parsed_at": "2026-11-21T22:50:53.906304+00:00"
+    },
+    {
       "commit": "ab463a14da47bd8334cdf5e64f6b9dd2ba9dd28a",
       "tag": "",
       "parsed_at": "2026-10-18T13:33:54.009873+00:00"
